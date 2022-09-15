@@ -1,0 +1,50 @@
+#email{
+    text-align: center;
+    line-height: 50px;
+  }
+  #header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: #fff;
+  }
+  #nav-menu{
+    margin-top: 50px;
+  }
+  #demo-hover{
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    color: #fff;
+    background-color: black;
+    opacity: 0.7;
+    font-size: 18px;
+    padding: 15px 8px;
+    display: none;
+  }
+  #dongfeng13khoi:hover p{
+      display: block;
+  }
+.navbar-brand{
+    
+    
+}
+.navbar{
+    display: block;
+    background-color: #279fbb;
+}
+
+#backtop{
+  width: 50px;
+  height: 50px;
+  background: tomato;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20%;
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+}
